@@ -278,7 +278,7 @@ func TestBar(t *testing.T) {
 	}
 }
 
-func TestQuz(t *testing.T) {
+func TestQux(t *testing.T) {
 	t.Error("intentional error 2")
 }
 ```
